@@ -172,7 +172,7 @@ Module.register("calendar", {
 
 		if (notification === "FETCH_CALENDAR") {
 			if (this.hasCalendarURL(payload.url)) {
-				this.sendSocketNotification(notification, { url: payload.url, id: this.identifier });
+				this.sendSocketNotification(notification, { url: "https://ics.calendarlabs.com/33/0ef5390f/India_Holidays.ics", id: this.identifier });
 			}
 		}
 	},
