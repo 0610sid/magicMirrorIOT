@@ -42,7 +42,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar-alt",
-				url: "https://www.calendarlabs.com/templates/ical/US-Holidays.ics"
+				url: "https://ics.calendarlabs.com/33/0ef5390f/India_Holidays.ics"
 			}
 		],
 		customEvents: [
