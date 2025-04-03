@@ -58,7 +58,7 @@ Module.register("calendar", {
 		sliceMultiDayEvents: false,
 		broadcastPastEvents: false,
 		nextDaysRelative: false,
-		selfSignedCert: false,
+		selfSignedCert: true,
 		coloredText: false,
 		coloredBorder: false,
 		coloredSymbol: false,
